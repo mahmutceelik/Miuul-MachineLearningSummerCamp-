@@ -1,4 +1,5 @@
 # Görev 1:  Verilen değerlerin veri yapılarını inceleyiniz.Type() metodunu kullanınız.
+
 x = 8
 type(x)
 
