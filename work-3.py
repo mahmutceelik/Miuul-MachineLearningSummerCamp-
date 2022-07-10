@@ -30,4 +30,4 @@ list[8]
 list.pop(8)
 # Out = 'M'
 list.insert(8,"N")
-#Out ['D', 'A', 'T', 'A', 'S', 'C', 'I', 'E', 'N', 'C', 'E']
+#Out = ['D', 'A', 'T', 'A', 'S', 'C', 'I', 'E', 'N', 'C', 'E']
