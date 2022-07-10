@@ -20,4 +20,5 @@ def func(list):
 #sonrasında koşul cümlelerimizi yazdık ve return ettik print ile ekrana basılmasını sağladık.
 
 odd_list, even_list = func(list)
-print(odd_list, even_list)
+print(even_list, odd_list)
+# Out = [2, 18, 22] [13, 93]
